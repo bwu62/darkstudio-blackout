@@ -46,7 +46,7 @@ You can install `darkstudio` by using `install_github()` from the `remotes` or `
 Just run
 
 ```r
-remotes::install_github("rileytwo/darkstudio")
+remotes::install_github("bwu62/darkstudio-blackout")
 ```
 in RStudio to install the package. To activate the custom theme, the next step depends on the OS you're using.
 
